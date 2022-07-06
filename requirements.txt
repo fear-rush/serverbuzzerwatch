@@ -1,0 +1,4 @@
+nltk
+tweepy==3.10.0
+deep_translator
+textblob 
